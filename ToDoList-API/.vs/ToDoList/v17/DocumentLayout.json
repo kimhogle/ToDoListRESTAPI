@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tyler\\source\\repos\\TDL6\\ToDoList-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC691357-0B9B-4B78-AAFB-8AC02C595F97}|ToDoList\\ToDoList.csproj|c:\\users\\tyler\\source\\repos\\tdl6\\todolist-api\\todolist\\repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC691357-0B9B-4B78-AAFB-8AC02C595F97}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\TDL6\\ToDoList-API\\ToDoList\\Repository\\ToDoRepository.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Repository\\ToDoRepository.cs",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\TDL6\\ToDoList-API\\ToDoList\\Repository\\ToDoRepository.cs",
+              "RelativeToolTip": "ToDoList\\Repository\\ToDoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:07:54.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
