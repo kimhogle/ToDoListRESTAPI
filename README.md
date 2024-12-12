@@ -105,6 +105,8 @@ Add any special instructions for the reviewer to run your project:
 
 Setup Instructions: 
 
+Uses MicrosoftSQL, will not work on Mac
+
 1. Clone the repository: 
 
    ```bash 
