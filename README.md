@@ -75,7 +75,7 @@ Technologies Used:
 
 - **Entity Framework Core** (Database ORM) 
 
-- **SQL Server** (Database backend) 
+- **SQLite Server** (Database backend) 
 
 - **Visual Studio 2022** or any compatible IDE 
 
@@ -103,15 +103,17 @@ Example: Product Page - Expose an endpoint that allows a user to add a product v
 
 Add any special instructions for the reviewer to run your project: 
 
-Setup Instructions: 
 
-Uses MicrosoftSQL, will not work on Mac
+
+
+Setup Instructions: 
+.NET Migrations
+
+
 
 1. Clone the repository: 
 
    ```bash 
-
- 
 
    git clone https://github.com/kimhogle/ToDoListRESTAPI
 
