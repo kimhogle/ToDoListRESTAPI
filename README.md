@@ -110,6 +110,10 @@ IT WILL NOT WORK ON MAC OR LINUX***********
 
 ***************Must perform dotnet ef database update************
 *********************Must run migrations***********
+
+To run migrations in Visual Studio, open the Package Manager Console within your project, and use the following commands: "Enable-Migrations" to enable migrations if not already done, "Add-Migration [MigrationName]" to create a new migration, and "Update-Database" to apply the pending migrations to your database; all commands are executed within the Package Manager Console.
+
+
 1. Clone the repository: 
 
    ```bash 
