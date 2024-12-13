@@ -107,7 +107,8 @@ Add any special instructions for the reviewer to run your project:
 
 
 Setup Instructions: 
-.NET Migrations
+Uses Microsoft SQL Database
+IT WILL NOT WORK ON MAC OR LINUX
 
 
 
