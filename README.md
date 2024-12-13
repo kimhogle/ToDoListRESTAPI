@@ -108,7 +108,8 @@ Setup Instructions:
 IT WILL NOT WORK ON MAC OR LINUX***********
 
 
-Must perform dotnet ef database update
+***************Must perform dotnet ef database update************
+*********************Must run migrations***********
 1. Clone the repository: 
 
    ```bash 
