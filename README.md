@@ -103,20 +103,20 @@ Example: Product Page - Expose an endpoint that allows a user to add a product v
 
 Add any special instructions for the reviewer to run your project: 
 
-
-
-
 Setup Instructions: 
-Uses Microsoft SQL Database
-IT WILL NOT WORK ON MAC OR LINUX
+************Uses Microsoft SQL Database
+IT WILL NOT WORK ON MAC OR LINUX***********
 
 
-
+Must perform dotnet ef database update
 1. Clone the repository: 
 
    ```bash 
 
    git clone https://github.com/kimhogle/ToDoListRESTAPI
+
+
+
 
 Visual Appeal: 
 
